@@ -28,7 +28,7 @@ print ("Sum: ", num3 + num4)
 
 num5 = int(input("Enter a number: "))
 
-if num % 2 == 0:
+if num5 % 2 == 0:
     print("Even number")
 else:
     print("Odd number")
