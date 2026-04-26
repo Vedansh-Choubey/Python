@@ -23,3 +23,12 @@ num3 = int(input ("Enter Any Number: ") )       #
 num4 = int(input ("Enter Any other Number: ") )
 
 print ("Sum: ", num3 + num4)
+
+
+
+num5 = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
