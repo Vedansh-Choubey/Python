@@ -11,7 +11,7 @@ else :
 n = int (input("Enter intial Number: "))
 m = int (input("Enter Last Number: "))
 
-for i in range (n , m):
+for i in range (n , m+1):
     if i%2 == 0:
       print ("Even", i)
     else :
